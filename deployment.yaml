@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: simple-flask-app-container
-        image: simple-flask-app:latest
+        image: meeramohan323/simple-flask-app:latest
         ports:
         - containerPort: 5000
